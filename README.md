@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/joeboykin/W6_Article2_U5/blob/f8b848d3ab701e7684e8e9a3ea16014cf98b3564/W6_Article2_Walkthrough.gif' title='ArticleSearch-3 Video Walkthrough' width='' alt='ArticleSearch-3 Video Walkthrough' />
+<img src='https://github.com/joeboykin/W7-Article3-L6/blob/fc4ec0084ecd1a6d1f0ff785c755dd1e6ecacb40/W7%20Article3%20L6%20Video.gif' title='ArticleSearch-3 Video Walkthrough' width='' alt='ArticleSearch-3 Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
