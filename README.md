@@ -16,17 +16,17 @@ The following **required** functionality is completed:
 - [ ] Customize the toolbar and icons
 
 **Stretch Features**
-- [ ] Add and implement options in the Settings screen
+- [x] Add and implement options in the Settings screen
 - [x] Customize a Home screen using the Most Popular NYTimes Articles API
 - [ ] Respond to device orientation changes without resetting the application
 
 The following **additional** features are implemented:
 * [x] N/A
 	
-<!-- ## Video Walkthrough
+## Video Walkthrough U6 Article-3
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/joeboykin/W7-Article3-L6/blob/fc4ec0084ecd1a6d1f0ff785c755dd1e6ecacb40/W7%20Article3%20L6%20Video.gif' title='ArticleSearch-3 Video Walkthrough' width='' alt='ArticleSearch-3 Video Walkthrough' />
+<img src='https://github.com/joeboykin/W7-U6-Article3/blob/6fb49ceda59cb5d57c1afe7298a7d5171e9de8b9/NavigationBar%20U6.gif' title='Article-3 U6 Navigation Bar' width='' alt='Article-3 U6 Navigation Bar'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS -->
