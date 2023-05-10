@@ -23,13 +23,13 @@ The following **required** functionality is completed:
 The following **additional** features are implemented:
 * [x] N/A
 	
-## Video Walkthrough
+<!-- ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/joeboykin/W7-Article3-L6/blob/fc4ec0084ecd1a6d1f0ff785c755dd1e6ecacb40/W7%20Article3%20L6%20Video.gif' title='ArticleSearch-3 Video Walkthrough' width='' alt='ArticleSearch-3 Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [Kap](https://getkap.co/) for macOS
+GIF created with [Kap](https://getkap.co/) for macOS -->
 
 ## Notes
 - [x] Syntax challenges such as indentation and brackets.
